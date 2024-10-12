@@ -1,0 +1,42 @@
+>>> """
+... Qu'est-ce qu'un libero au volleyball?"""
+ Un libero en volleyballe est un joueur qui n'attaque pas la balle directement, mais qui peut la toucher pour la
+passer à un ou plusieurs joueurs adverse. Il a un rôle très important dans le jeu de volleyballe car il permet aux
+équipes de bien coordonner leur défense et d'atteindre une bonne position pour le prochain coup.
+
+>>> """est-ce qu'un libero peut faire une passe à 10 doigts? """
+ Non, un libero ne peut pas faire une passe à 10 doigts.
+Un libero a généralement les mains libres et utilise ses
+deux mains pour toucher la balle et la passer à un ou
+plusieurs joueurs adverse.
+
+>>> """est-ce qu'un libero peut faire une passe à 2 mains à son
+... attaquant?"""
+ Oui, un libero peut faire une passe à deux mains à son
+attaquant si c'est nécessaire pour atteindre l'attaquant
+rapidement et efficacement.
+
+>>> """est-ce que le libero peut faire une passe dans les 3 m?"
+... ""
+ Non, un libero ne peut pas passer la balle dans les 3 mm.
+Il a généralement les mains libres et utilise ses deux
+mains pour toucher la balle et la passer à un ou plusieurs
+joueurs adverse.
+
+>>> """est-ce que le libero peut faire une passe en manchette da... ns les 3m à son attaquant?"""
+ Oui, un libero peut passer la balle avec la manchette
+dans les 3 mm si c'est nécessaire pour atteindre
+l'attaquant rapidement et efficacement.
+
+>>> """quand est-ce qu'un attaquant est considéré comme un bloqu
+... eur lors d'une attaque adverse?"""
+ Un attaquant est considéré comme un bloqueur lors d'une
+attaque adverse lorsque le joueur adverse tente de passer
+la balle à l'attaquant en touchant le joueur adverse pour
+empêcher la passerelle ou le coup suivant.
+
+>>> """est-ce qu'un joueur touchant le ballon derrière les 3m pe
+... ut être considéré comme un bloqueur?"""
+ Oui, un joueur touchant le ballon derrière les 3 m peut
+être considéré comme un bloqueur si il bloque la
+passerelle ou empêche l'attaquant de jouer.
