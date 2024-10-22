@@ -7,17 +7,17 @@ CHROMA_PATH = "./volleybot_doc_db"
 CHROMA_COLLECTION_NAME = 'volleyball'
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+As a volleyball referee, answer in French to the question based only on the following context:
 
 {context}
 
 ---
 
-Answer the question based on the above context: {question}
+As a volleyball referee, answer in French to the question based on the above context: {question}
 """
 
 def main():
-    query_text = "what is volleyball"
+    query_text = "Qu'est-ce qu'un libero au volleyball?"
     resp = query_rag(query_text)
     print(resp)
 
